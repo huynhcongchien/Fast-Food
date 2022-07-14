@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "686159462882",
+    "firebase_url": "https://kltn-81564.firebaseio.com",
+    "project_id": "kltn-81564",
+    "storage_bucket": "kltn-81564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686159462882:android:f8f9e10be7c8dd037179bb",
+        "android_client_info": {
+          "package_name": "arkitchen.karachi.foodiesshipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686159462882-66p2viofafs7o8qf8dekhvgatdjhcbkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arkitchen.karachi.foodiesshipper",
+            "certificate_hash": "e5d6ba1eb349cd66e726913c2b492fedb07cd49c"
+          }
+        },
+        {
+          "client_id": "686159462882-cvnaac62fbggs3rrkfc0veccnv915ne5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfqU_Chp3slex09rictJsQ9bjBkgNntI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686159462882-cvnaac62fbggs3rrkfc0veccnv915ne5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686159462882:android:c397f6d75d7a12ee7179bb",
+        "android_client_info": {
+          "package_name": "com.example.daoftsaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686159462882-cnctc7f8rkppvla7c3l5a0r7c3t3imqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daoftsaf",
+            "certificate_hash": "f074b6d4bf53343bcb6548dec1fe4f4b27272e9f"
+          }
+        },
+        {
+          "client_id": "686159462882-cvnaac62fbggs3rrkfc0veccnv915ne5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfqU_Chp3slex09rictJsQ9bjBkgNntI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686159462882-cvnaac62fbggs3rrkfc0veccnv915ne5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686159462882:android:ecf4f6a80d003b137179bb",
+        "android_client_info": {
+          "package_name": "com.example.dooftsaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686159462882-oeimlovc1ar8fim3v67d63v4smah8968.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dooftsaf",
+            "certificate_hash": "87bdc919a1ee482ea1355e586e8fe710cb00fdec"
+          }
+        },
+        {
+          "client_id": "686159462882-cvnaac62fbggs3rrkfc0veccnv915ne5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfqU_Chp3slex09rictJsQ9bjBkgNntI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686159462882-cvnaac62fbggs3rrkfc0veccnv915ne5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686159462882:android:665dd6e5ac9172e47179bb",
+        "android_client_info": {
+          "package_name": "com.trangdv.shipperfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686159462882-ddlti2s2l1qk5bmgqfna8fbt2pgvpca0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trangdv.shipperfood",
+            "certificate_hash": "e5d6ba1eb349cd66e726913c2b492fedb07cd49c"
+          }
+        },
+        {
+          "client_id": "686159462882-cvnaac62fbggs3rrkfc0veccnv915ne5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfqU_Chp3slex09rictJsQ9bjBkgNntI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686159462882-cvnaac62fbggs3rrkfc0veccnv915ne5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
